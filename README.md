@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá👋
 
 <!--
 **Quesia2b/Quesia2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://br.pinterest.com/pin/796081671665151677/)
